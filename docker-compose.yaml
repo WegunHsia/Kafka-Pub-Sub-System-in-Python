@@ -18,7 +18,6 @@ volumes:
   kafka-data-2:
   kafka-data-3:
   postgres-data:
-  metabase-data:
 
 # ─────────────────────────────────────────────────────────────
 # Shared Kafka environment (YAML anchor to avoid repetition)
