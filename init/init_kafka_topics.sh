@@ -1,7 +1,7 @@
 #!/bin/bash
 # ──────────────────────────────────────────────────────────────
 # init_kafka_topics.sh
-# Creates all Kafka topics required by the Prudential pub/sub system.
+# Creates all Kafka topics required by the pub/sub system.
 # Runs once as a Docker one-shot container after Kafka is healthy.
 # ──────────────────────────────────────────────────────────────
 
